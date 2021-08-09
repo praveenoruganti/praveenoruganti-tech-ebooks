@@ -43,5 +43,7 @@
 
 - [All About React JS](https://github.com/praveenorugantitech/praveenorugantitech-ebooks/raw/master/React%20JS.pdf)
 
+- [Java Interview Questions](https://github.com/praveenorugantitech/praveenorugantitech-ebooks/blob/master/Java%20Interview%20Questions.pdf)
+
 
 
